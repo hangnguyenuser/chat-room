@@ -1,0 +1,2 @@
+Right now page is static, needs state + an array of messages + a submit handler.
+
